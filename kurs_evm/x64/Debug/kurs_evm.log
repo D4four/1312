@@ -1,0 +1,7 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl clk(void)" (?clk@@YAXXZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl drawline(int,int,int,int)" (?drawline@@YAXHHHH@Z) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl menufor3task(int)" (?menufor3task@@YAXH@Z) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task1(int)" (?task1@@YAXH@Z) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task2(void)" (?task2@@YAXXZ) в функции main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl task3(int,int,int,int)" (?task3@@YAXHHHH@Z) в функции main.
+D:\VSproj\kurs_evm\x64\Debug\kurs_evm.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
